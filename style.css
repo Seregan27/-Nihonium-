@@ -2,8 +2,8 @@
     text-align: center;
 }
 body {
- background-color: rgb(238, 154, 98);
-
+    background:linear-gradient(red, rgb(6, 6, 179));
+    height: 2173px;
   }
 .circle{
     width: 800px;
@@ -39,3 +39,8 @@ body {
 .img3{
     padding-left:  800px; ;
 }
+a {
+    text-decoration:none;
+    color: aliceblue;
+    font-size: 14px;
+  }
